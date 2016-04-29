@@ -23,3 +23,14 @@ Python is interperator languagee
   -  new memory block is created new when you try to add again value. so kind of mutable but not.
 
   - string slicing
+
+
+
+  Things to go thru
+
+  - Regular expression modules
+  - database modules for mysql
+  - threading
+  - json and xml data parsing
+  - rest api - httplib, httplib2 - get, post, delete, put
+  - Basic file handeling
