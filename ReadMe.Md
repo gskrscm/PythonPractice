@@ -16,8 +16,10 @@ Python is interperator languagee
   - string         a = "Abhi"         - immutable
   - list          a = [1, 2, 3, 4]
   - tuple          a = (1, 2, 3)          - immutable - constant list
-  - dictionary     a = { 'a':1, 'b':2}      key can be string, int, tuples - only immutable
+  - dictionary     a = { 'a':1, 'b':2}      key is immutable can be string, int, tuples - only immutables
 
-  immutable, but memory block is created new when you try to add again value. so kind of mutable but not.
+  About immutables, when you assign second time value, the second value is printed because the firs value is totally
+  destructed and new value created.
+  -  new memory block is created new when you try to add again value. so kind of mutable but not.
 
   - string slicing

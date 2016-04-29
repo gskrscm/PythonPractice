@@ -1,3 +1,6 @@
+
+# if helps to check a condition
+
 age = 13
 
 if age < 21:
