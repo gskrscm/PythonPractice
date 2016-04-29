@@ -1,5 +1,5 @@
 
-# if helps to check a condition
+# if helps to check a condition : 0 and null is false, other all are true.
 
 age = 13
 
