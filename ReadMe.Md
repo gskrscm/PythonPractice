@@ -12,10 +12,10 @@ Python is interperator languagee
     py -> pyc - binary code
 
  Data types:
-  - int             a = 5   - immutable
-  - string         a = "Abhi"         - immutable
+  - int             a = 5                    - immutable
+  - string         a = "Abhi"                - immutable
   - list          a = [1, 2, 3, 4]
-  - tuple          a = (1, 2, 3)          - immutable - constant list
+  - tuple          a = (1, 2, 3)             - immutable - constant list
   - dictionary     a = { 'a':1, 'b':2}      key is immutable can be string, int, tuples - only immutables
 
   About immutables, when you assign second time value, the second value is printed because the firs value is totally
